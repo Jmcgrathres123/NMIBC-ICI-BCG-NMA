@@ -1,0 +1,9 @@
+"analysis","Treatment","P_score"
+"CIS_absent","Atezolizumab+BCG",0.127195828724582
+"CIS_absent","BCG",0.262877373503715
+"CIS_absent","Durvalumab+BCG",0.962283166348849
+"CIS_absent","Sasanlimab+BCG",0.647643631422854
+"CIS_present","Atezolizumab+BCG",0.62299959169043
+"CIS_present","BCG",0.225083377984872
+"CIS_present","Durvalumab+BCG",0.245864022303766
+"CIS_present","Sasanlimab+BCG",0.906053008020931

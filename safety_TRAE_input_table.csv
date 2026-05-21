@@ -1,0 +1,4 @@
+"study","treatment","comparator","events_treatment","n_treatment","events_comparator","n_comparator"
+"ALBAN","Atezolizumab+BCG","BCG",58,255,22,250
+"CREST","Sasanlimab+BCG","BCG",102,350,22,349
+"POTOMAC","Durvalumab+BCG","BCG",71,336,13,339

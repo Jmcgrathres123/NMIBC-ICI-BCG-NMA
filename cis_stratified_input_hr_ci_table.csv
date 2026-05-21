@@ -1,0 +1,7 @@
+"analysis","study","treat1","treat2","HR","lower_CI","upper_CI"
+"CIS_absent","ALBAN","Atezolizumab+BCG","BCG",1.12,0.75,1.68
+"CIS_absent","CREST","Sasanlimab+BCG","BCG",0.76,0.52,1.11
+"CIS_absent","POTOMAC","Durvalumab+BCG","BCG",0.53,0.35,0.81
+"CIS_present","ALBAN","Atezolizumab+BCG","BCG",0.74,0.43,1.28
+"CIS_present","CREST","Sasanlimab+BCG","BCG",0.53,0.29,0.97
+"CIS_present","POTOMAC","Durvalumab+BCG","BCG",1.01,0.62,1.64
